@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.Triangle;
 
-public class CalculateTriangle {
+public class TriangleApplication {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
